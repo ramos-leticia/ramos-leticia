@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://img.shields.io/github/followers/ramos-leticia?color=purple&style=for-the-badge" alt="Profile views" /> </p>
 
 
-- 🚀 I'm currently studying to be a backend developer
+- 🚀 I'm currently working as a backend developer
 - 🌱 I’m currently learning Javascript and C#
 - 😄 Pronouns: She/Her
 <br>
