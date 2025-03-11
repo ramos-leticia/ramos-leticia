@@ -6,7 +6,7 @@
 
 
 - 🚀 I'm currently working as a backend developer
-- 🌱 I’m currently learning Javascript and C#
+- 🌱 I’m currently learning DevOps
 - 😄 Pronouns: She/Her
 <br>
 
